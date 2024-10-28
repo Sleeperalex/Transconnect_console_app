@@ -20,6 +20,7 @@ L'objectif principal du projet est de développer une application C# permettant 
 - **Gestion des commandes** : Création et modification des commandes avec enregistrement des données pour enrichir progressivement la base.
 - **Optimisation des trajets** : Utilisation de l'algorithme de Dijkstra pour déterminer les itinéraires les plus courts et affectation des chauffeurs disponibles. 
 <div style="page-break-after: always;"></div> 
+
 ### Attention
 - Certains chemins ne sont pas possible car nous avons construit un graphe orienté sur les villes, (ce qui n'est pas très logique pour des villes mais nous avons suivi l'exemple du cours).
 #### Module Statistiques
